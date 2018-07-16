@@ -1,0 +1,9 @@
+<map id="QgsRendererV2Widget" name="QgsRendererV2Widget">
+<area shape="rect" id="node3" href="$classQgsCategorizedSymbolRendererV2Widget.html" title="QgsCategorizedSymbolRenderer\lV2Widget" alt="" coords="350,5,582,47"/>
+<area shape="rect" id="node4" href="$classQgsGraduatedSymbolRendererV2Widget.html" title="QgsGraduatedSymbolRenderer\lV2Widget" alt="" coords="355,71,577,112"/>
+<area shape="rect" id="node5" href="$classQgsHeatmapRendererWidget.html" title="QgsHeatmapRendererWidget" alt="" coords="361,137,571,163"/>
+<area shape="rect" id="node6" href="$classQgsInvertedPolygonRendererWidget.html" title="A widget used represent options of a QgsInvertedPolygonRenderer. " alt="" coords="361,188,571,229"/>
+<area shape="rect" id="node7" href="$classQgsPointDisplacementRendererWidget.html" title="QgsPointDisplacementRenderer\lWidget" alt="" coords="352,253,580,295"/>
+<area shape="rect" id="node8" href="$classQgsRuleBasedRendererV2Widget.html" title="QgsRuleBasedRendererV2Widget" alt="" coords="348,319,584,346"/>
+<area shape="rect" id="node9" href="$classQgsSingleSymbolRendererV2Widget.html" title="QgsSingleSymbolRendererV2\lWidget" alt="" coords="361,371,571,412"/>
+</map>

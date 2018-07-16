@@ -1,0 +1,15 @@
+<map id="QgsMapCanvasItem" name="QgsMapCanvasItem">
+<area shape="rect" id="node3" href="$classQgsAnnotationItem.html" title="An annotation item can be either placed either on screen corrdinates or on map coordinates. " alt="" coords="393,132,541,159"/>
+<area shape="rect" id="node10" href="$classQgsGeometryRubberBand.html" title="QgsGeometryRubberBand" alt="" coords="372,183,563,209"/>
+<area shape="rect" id="node11" href="$classQgsGpsMarker.html" title="A class for marking the position of a gps pointer. " alt="" coords="409,233,526,260"/>
+<area shape="rect" id="node12" href="$classQgsHighlight.html" title="A class for highlight features on the map. " alt="" coords="414,284,521,311"/>
+<area shape="rect" id="node13" href="$classQgsMapCanvasMap.html" title="A rectangular graphics item representing the map on the canvas. " alt="" coords="393,335,542,361"/>
+<area shape="rect" id="node14" href="$classQgsRubberBand.html" title="A class for drawing transient features (e.g. " alt="" coords="405,385,530,412"/>
+<area shape="rect" id="node15" href="$classQgsVertexMarker.html" title="A class for marking vertices of features using e.g. " alt="" coords="400,436,535,463"/>
+<area shape="rect" id="node4" href="$classQgsFormAnnotationItem.html" title="An annotation item that embedds a designer form showing the feature attribute. " alt="" coords="627,5,809,32"/>
+<area shape="rect" id="node5" href="$classQgsGeoImageAnnotationItem.html" title="QgsGeoImageAnnotationItem" alt="" coords="611,56,825,83"/>
+<area shape="rect" id="node6" href="$classQgsHtmlAnnotationItem.html" title="An annotation item that embedds a designer form showing the feature attribute. " alt="" coords="628,107,808,133"/>
+<area shape="rect" id="node7" href="$classQgsImageAnnotationItem.html" title="QgsImageAnnotationItem" alt="" coords="623,157,813,184"/>
+<area shape="rect" id="node8" href="$classQgsSvgAnnotationItem.html" title="QgsSvgAnnotationItem" alt="" coords="632,208,804,235"/>
+<area shape="rect" id="node9" href="$classQgsTextAnnotationItem.html" title="An annotation item that displays formated text. " alt="" coords="631,259,805,285"/>
+</map>

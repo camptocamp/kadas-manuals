@@ -1,0 +1,9 @@
+<map id="QgsMapToolDrawShape" name="QgsMapToolDrawShape">
+<area shape="rect" id="node4" href="$classQgsMapToolDrawCircle.html" title="QgsMapToolDrawCircle" alt="" coords="526,5,697,32"/>
+<area shape="rect" id="node5" href="$classQgsMapToolDrawCircularSector.html" title="QgsMapToolDrawCircularSector" alt="" coords="499,56,724,83"/>
+<area shape="rect" id="node6" href="$classQgsMapToolDrawPoint.html" title="QgsMapToolDrawPoint" alt="" coords="528,107,695,133"/>
+<area shape="rect" id="node7" href="$classQgsMapToolDrawPolyLine.html" title="QgsMapToolDrawPolyLine" alt="" coords="517,157,706,184"/>
+<area shape="rect" id="node8" href="$classQgsMapToolDrawRectangle.html" title="QgsMapToolDrawRectangle" alt="" coords="512,208,711,235"/>
+<area shape="rect" id="node2" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="128,107,228,133"/>
+<area shape="rect" id="node9" href="$classQgsMapToolDeleteItems.html" title="QgsMapToolDeleteItems" alt="" coords="772,208,952,235"/>
+</map>

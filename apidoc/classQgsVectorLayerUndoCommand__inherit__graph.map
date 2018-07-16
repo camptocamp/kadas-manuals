@@ -1,0 +1,8 @@
+<map id="QgsVectorLayerUndoCommand" name="QgsVectorLayerUndoCommand">
+<area shape="rect" id="node3" href="$classQgsVectorLayerUndoCommandAddAttribute.html" title="QgsVectorLayerUndoCommand\lAddAttribute" alt="" coords="460,5,685,47"/>
+<area shape="rect" id="node4" href="$classQgsVectorLayerUndoCommandAddFeature.html" title="QgsVectorLayerUndoCommand\lAddFeature" alt="" coords="460,71,685,112"/>
+<area shape="rect" id="node5" href="$classQgsVectorLayerUndoCommandChangeAttribute.html" title="QgsVectorLayerUndoCommand\lChangeAttribute" alt="" coords="460,136,685,177"/>
+<area shape="rect" id="node6" href="$classQgsVectorLayerUndoCommandChangeGeometry.html" title="QgsVectorLayerUndoCommand\lChangeGeometry" alt="" coords="460,201,685,243"/>
+<area shape="rect" id="node7" href="$classQgsVectorLayerUndoCommandDeleteAttribute.html" title="QgsVectorLayerUndoCommand\lDeleteAttribute" alt="" coords="460,267,685,308"/>
+<area shape="rect" id="node8" href="$classQgsVectorLayerUndoCommandDeleteFeature.html" title="QgsVectorLayerUndoCommand\lDeleteFeature" alt="" coords="460,332,685,373"/>
+</map>

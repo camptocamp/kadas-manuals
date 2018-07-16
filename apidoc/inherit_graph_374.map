@@ -1,0 +1,79 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsLayerPropertiesWidget.html" title="QgsLayerPropertiesWidget" alt="" coords="323,5,517,32"/>
+<area shape="rect" id="node4" href="$classQgsAnnotationWidget.html" title="A configuration widget to configure the annotation item properties. " alt="" coords="338,56,502,83"/>
+<area shape="rect" id="node6" href="$classQgsCategorizedSymbolRendererV2Widget.html" title="QgsCategorizedSymbolRenderer\lV2Widget" alt="" coords="595,1159,827,1201"/>
+<area shape="rect" id="node8" href="$classQgsCheckBoxConfigDlg.html" title="QgsCheckBoxConfigDlg" alt="" coords="624,1833,799,1860"/>
+<area shape="rect" id="node10" href="$classQgsDateTimeEditConfig.html" title="QgsDateTimeEditConfig" alt="" coords="623,1985,800,2012"/>
+<area shape="rect" id="node12" href="$classQgsDetailedItemWidget.html" title="A widget renderer for detailed item views. " alt="" coords="331,107,509,133"/>
+<area shape="rect" id="node14" href="$classQgsDummyConfigDlg.html" title="QgsDummyConfigDlg" alt="" coords="630,2036,793,2063"/>
+<area shape="rect" id="node16" href="$classQgsExpressionBuilderWidget.html" title="A reusable widget that can be used to build a expression string. " alt="" coords="315,157,525,184"/>
+<area shape="rect" id="node18" href="$classQgsGraduatedSymbolRendererV2Widget.html" title="QgsGraduatedSymbolRenderer\lV2Widget" alt="" coords="600,1238,823,1279"/>
+<area shape="rect" id="node20" href="$classQgsHeatmapRendererWidget.html" title="QgsHeatmapRendererWidget" alt="" coords="606,1329,817,1356"/>
+<area shape="rect" id="node22" href="$classQgsInvertedPolygonRendererWidget.html" title="A widget used represent options of a QgsInvertedPolygonRenderer. " alt="" coords="606,1387,817,1429"/>
+<area shape="rect" id="node24" href="$classQgsMultiBandColorRendererWidget.html" title="QgsMultiBandColorRenderer\lWidget" alt="" coords="609,823,813,865"/>
+<area shape="rect" id="node26" href="$classQgsPalettedRendererWidget.html" title="QgsPalettedRendererWidget" alt="" coords="609,921,813,948"/>
+<area shape="rect" id="node28" href="$classQgsPhotoConfigDlg.html" title="QgsPhotoConfigDlg" alt="" coords="638,2087,785,2113"/>
+<area shape="rect" id="node30" href="$classQgsPointDisplacementRendererWidget.html" title="QgsPointDisplacementRenderer\lWidget" alt="" coords="597,1466,825,1507"/>
+<area shape="rect" id="node32" href="$classQgsProjectionSelector.html" title="A widget for selecting a Coordinate reference system from a tree. " alt="" coords="337,208,503,235"/>
+<area shape="rect" id="node34" href="$classQgsRangeConfigDlg.html" title="QgsRangeConfigDlg" alt="" coords="636,2137,787,2164"/>
+<area shape="rect" id="node36" href="$classQgsRasterFormatSaveOptionsWidget.html" title="A widget to select format&#45;specific raster saving options. " alt="" coords="311,259,529,301"/>
+<area shape="rect" id="node38" href="$classQgsRasterHistogramWidget.html" title="Histogram widget. " alt="" coords="319,325,521,352"/>
+<area shape="rect" id="node40" href="$classQgsRasterMinMaxWidget.html" title="QgsRasterMinMaxWidget" alt="" coords="327,376,513,403"/>
+<area shape="rect" id="node42" href="$classQgsRasterPyramidsOptionsWidget.html" title="A widget to select format&#45;specific raster saving options. " alt="" coords="320,427,520,469"/>
+<area shape="rect" id="node44" href="$classQgsRelationManagerDialog.html" title="QgsRelationManagerDialog" alt="" coords="321,493,519,520"/>
+<area shape="rect" id="node46" href="$classQgsRelationReferenceConfigDlg.html" title="QgsRelationReferenceConfigDlg" alt="" coords="597,2188,825,2215"/>
+<area shape="rect" id="node48" href="$classQgsRuleBasedRendererV2Widget.html" title="QgsRuleBasedRendererV2Widget" alt="" coords="593,1557,829,1584"/>
+<area shape="rect" id="node50" href="$classQgsSingleBandGrayRendererWidget.html" title="QgsSingleBandGrayRenderer\lWidget" alt="" coords="607,985,816,1026"/>
+<area shape="rect" id="node52" href="$classQgsSingleBandPseudoColorRendererWidget.html" title="QgsSingleBandPseudoColor\lRendererWidget" alt="" coords="611,1075,812,1117"/>
+<area shape="rect" id="node54" href="$classQgsSingleSymbolRendererV2Widget.html" title="QgsSingleSymbolRendererV2\lWidget" alt="" coords="606,1613,817,1654"/>
+<area shape="rect" id="node56" href="$classQgsSmartGroupCondition.html" title="QgsSmartGroupCondition" alt="" coords="327,544,513,571"/>
+<area shape="rect" id="node58" href="$classQgsTextEditConfigDlg.html" title="QgsTextEditConfigDlg" alt="" coords="630,2239,793,2265"/>
+<area shape="rect" id="node60" href="$classQgsUniqueValuesConfigDlg.html" title="QgsUniqueValuesConfigDlg" alt="" coords="612,2289,811,2316"/>
+<area shape="rect" id="node62" href="$classQgsUnitSelectionWidget.html" title="Widget displaying a combobox allowing the user to choose between millimeter and map units If the user..." alt="" coords="330,3296,510,3323"/>
+<area shape="rect" id="node64" href="$classQgsValueMapConfigDlg.html" title="QgsValueMapConfigDlg" alt="" coords="625,2340,798,2367"/>
+<area shape="rect" id="node66" href="$classQgsValueRelationConfigDlg.html" title="QgsValueRelationConfigDlg" alt="" coords="612,2391,811,2417"/>
+<area shape="rect" id="node68" href="$classQgsWebViewWidgetConfigDlg.html" title="QgsWebViewWidgetConfigDlg" alt="" coords="603,2441,819,2468"/>
+<area shape="rect" id="node70" href="$classCharacterWidget.html" title="[0] " alt="" coords="355,1833,485,1860"/>
+<area shape="rect" id="node71" href="$classQgsAttributeForm.html" title="QgsAttributeForm" alt="" coords="351,1884,489,1911"/>
+<area shape="rect" id="node72" href="$classQgsColorSwatchGrid.html" title="A grid of color swatches, which allows for user selection. " alt="" coords="343,1935,497,1961"/>
+<area shape="rect" id="node73" href="$classQgsColorWidget.html" title="A base class for interactive color widgets. " alt="" coords="357,2644,483,2671"/>
+<area shape="rect" id="node80" href="$classQgsComposerRuler.html" title="A class to show paper scale and the current cursor position. " alt="" coords="347,2239,493,2265"/>
+<area shape="rect" id="node81" href="$classQgsCustomLayerOrderWidget.html" title="The QgsCustomLayerOrderWidget class provides a list box where the user can define custom order for dr..." alt="" coords="313,2441,527,2468"/>
+<area shape="rect" id="node82" href="$classQgsEditorConfigWidget.html" title="This class should be subclassed for every configurable editor widget type. " alt="" coords="334,2289,506,2316"/>
+<area shape="rect" id="node83" href="$classQgsFieldExpressionWidget.html" title="The QgsFieldExpressionWidget class reates a widget to choose fields and edit expressions It contains ..." alt="" coords="323,2745,517,2772"/>
+<area shape="rect" id="node84" href="$classQgsFloatingInputWidget.html" title="QgsFloatingInputWidget" alt="" coords="331,2796,509,2823"/>
+<area shape="rect" id="node85" href="$classQgsMapOverviewCanvas.html" title="A widget that displays an overview map. " alt="" coords="328,595,512,621"/>
+<area shape="rect" id="node86" href="$classQgsMessageBarItem.html" title="QgsMessageBarItem" alt="" coords="342,645,498,672"/>
+<area shape="rect" id="node87" href="$classQgsPanningWidget.html" title="widget that serves as rectangle showing current extent in overview " alt="" coords="348,696,492,723"/>
+<area shape="rect" id="node88" href="$classQgsProjectionSelectionWidget.html" title="A widget for selecting a projection. " alt="" coords="311,747,529,773"/>
+<area shape="rect" id="node89" href="$classQgsRasterRendererWidget.html" title="QgsRasterRendererWidget" alt="" coords="323,965,517,992"/>
+<area shape="rect" id="node90" href="$classQgsRelationReferenceWidget.html" title="QgsRelationReferenceWidget" alt="" coords="315,864,525,891"/>
+<area shape="rect" id="node91" href="$classQgsRendererV2Widget.html" title=" &#160;Base class for renderer settings widgets " alt="" coords="336,1447,504,1473"/>
+<area shape="rect" id="node92" href="$classQgsScaleRangeWidget.html" title="QgsScaleRangeWidget" alt="" coords="335,1279,505,1305"/>
+<area shape="rect" id="node93" href="$classQgsScaleWidget.html" title="A combobox which lets the user select map scale from predefined list and highlights nearest to curren..." alt="" coords="356,1681,484,1708"/>
+<area shape="rect" id="node94" href="$classQgsSvgSelectorWidget.html" title="QgsSvgSelectorWidget" alt="" coords="335,3724,505,3751"/>
+<area shape="rect" id="node95" href="$classQgsSymbolLayerV2Widget.html" title="QgsSymbolLayerV2Widget" alt="" coords="323,3195,517,3221"/>
+<area shape="rect" id="node111" href="$classQgsSymbolsListWidget.html" title="QgsSymbolsListWidget" alt="" coords="334,3775,506,3801"/>
+<area shape="rect" id="node112" href="$classQgsVectorLayerPropertiesPage.html" title="QgsVectorLayerPropertiesPage" alt="" coords="309,1783,531,1809"/>
+<area shape="rect" id="node74" href="$classQgsColorBox.html" title="A color box widget. " alt="" coords="658,2644,765,2671"/>
+<area shape="rect" id="node75" href="$classQgsColorPreviewWidget.html" title="A preview box which displays one or two colors as swatches. " alt="" coords="622,2695,801,2721"/>
+<area shape="rect" id="node76" href="$classQgsColorRampWidget.html" title="A color ramp widget. " alt="" coords="629,2745,794,2772"/>
+<area shape="rect" id="node77" href="$classQgsColorSliderWidget.html" title="A composite horizontal color ramp widget and associated spinbox for manual value entry. " alt="" coords="629,2492,793,2519"/>
+<area shape="rect" id="node78" href="$classQgsColorTextWidget.html" title="A line edit widget which displays colors as text and accepts string representations of colors..." alt="" coords="634,2543,789,2569"/>
+<area shape="rect" id="node79" href="$classQgsColorWheel.html" title="A color wheel widget. " alt="" coords="650,2593,773,2620"/>
+<area shape="rect" id="node96" href="$classQgsCentroidFillSymbolLayerV2Widget.html" title="QgsCentroidFillSymbolLayer\lV2Widget" alt="" coords="609,2797,814,2838"/>
+<area shape="rect" id="node97" href="$classQgsEllipseSymbolLayerV2Widget.html" title="QgsEllipseSymbolLayerV2Widget" alt="" coords="592,2863,831,2889"/>
+<area shape="rect" id="node98" href="$classQgsFontMarkerSymbolLayerV2Widget.html" title="QgsFontMarkerSymbolLayer\lV2Widget" alt="" coords="609,2914,814,2955"/>
+<area shape="rect" id="node99" href="$classQgsGradientFillSymbolLayerV2Widget.html" title="QgsGradientFillSymbolLayer\lV2Widget" alt="" coords="608,2979,815,3021"/>
+<area shape="rect" id="node100" href="$classQgsLinePatternFillSymbolLayerWidget.html" title="QgsLinePatternFillSymbol\lLayerWidget" alt="" coords="618,3045,805,3086"/>
+<area shape="rect" id="node101" href="$classQgsMarkerLineSymbolLayerV2Widget.html" title="QgsMarkerLineSymbolLayer\lV2Widget" alt="" coords="609,3110,813,3151"/>
+<area shape="rect" id="node102" href="$classQgsPointPatternFillSymbolLayerWidget.html" title="QgsPointPatternFillSymbol\lLayerWidget" alt="" coords="615,3175,808,3217"/>
+<area shape="rect" id="node103" href="$classQgsRasterFillSymbolLayerWidget.html" title="QgsRasterFillSymbolLayer\lWidget" alt="" coords="615,3241,807,3282"/>
+<area shape="rect" id="node104" href="$classQgsShapeburstFillSymbolLayerV2Widget.html" title="QgsShapeburstFillSymbolLayer\lV2Widget" alt="" coords="600,3306,823,3347"/>
+<area shape="rect" id="node105" href="$classQgsSimpleFillSymbolLayerV2Widget.html" title="QgsSimpleFillSymbolLayer\lV2Widget" alt="" coords="614,3371,809,3413"/>
+<area shape="rect" id="node106" href="$classQgsSimpleLineSymbolLayerV2Widget.html" title="QgsSimpleLineSymbolLayer\lV2Widget" alt="" coords="609,3437,813,3478"/>
+<area shape="rect" id="node107" href="$classQgsSimpleMarkerSymbolLayerV2Widget.html" title="QgsSimpleMarkerSymbolLayer\lV2Widget" alt="" coords="600,3502,823,3543"/>
+<area shape="rect" id="node108" href="$classQgsSVGFillSymbolLayerWidget.html" title="QgsSVGFillSymbolLayerWidget" alt="" coords="600,3568,823,3595"/>
+<area shape="rect" id="node109" href="$classQgsSvgMarkerSymbolLayerV2Widget.html" title="QgsSvgMarkerSymbolLayerV2\lWidget" alt="" coords="602,3619,821,3661"/>
+<area shape="rect" id="node110" href="$classQgsVectorFieldSymbolLayerWidget.html" title="QgsVectorFieldSymbolLayer\lWidget" alt="" coords="610,3685,813,3726"/>
+</map>

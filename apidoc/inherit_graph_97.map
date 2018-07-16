@@ -1,0 +1,12 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsFeatureListModel.html" title="QgsFeatureListModel" alt="" coords="257,5,414,32"/>
+<area shape="rect" id="node3" href="$classQgsFeatureModel.html" title="QgsFeatureModel" alt="" coords="21,56,156,83"/>
+<area shape="rect" id="node4" href="$classQgsAttributeTableFilterModel.html" title="QgsAttributeTableFilterModel" alt="" coords="231,56,440,83"/>
+<area shape="rect" id="node6" href="$classQgsComposerTableSortColumnsProxyModel.html" title="Allows for filtering QgsComposerAttributeTable columns by columns which are sorted or unsorted..." alt="" coords="220,107,451,149"/>
+<area shape="rect" id="node7" href="$classQgsComposerTableSortColumnsProxyModelV2.html" title="Allows for filtering QgsComposerAttributeTable columns by columns which are sorted or unsorted..." alt="" coords="220,173,451,214"/>
+<area shape="rect" id="node8" href="$classQgsDbFilterProxyModel.html" title="A class that implements a custom filter and can be used as a proxy for QgsDbTableModel. " alt="" coords="249,239,422,265"/>
+<area shape="rect" id="node9" href="$classQgsExpressionItemSearchProxy.html" title="Search proxy used to filter the QgsExpressionBuilderWidget tree. " alt="" coords="221,289,450,316"/>
+<area shape="rect" id="node10" href="$classQgsFieldProxyModel.html" title="The QgsFieldProxyModel class provides an easy to use model to display the list of fields of a layer..." alt="" coords="259,340,412,367"/>
+<area shape="rect" id="node11" href="$classQgsMapLayerProxyModel.html" title="The QgsMapLayerProxyModel class provides an easy to use model to display the list of layers in widget..." alt="" coords="242,391,429,417"/>
+<area shape="rect" id="node12" href="$classTreeFilterProxyModel.html" title="TreeFilterProxyModel" alt="" coords="257,441,414,468"/>
+</map>

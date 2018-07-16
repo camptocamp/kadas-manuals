@@ -1,0 +1,11 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classQgsFeatureRendererV2.html" title="QgsFeatureRendererV2" alt="" coords="5,183,176,209"/>
+<area shape="rect" id="node2" href="$classQgsCategorizedSymbolRendererV2.html" title="QgsCategorizedSymbolRendererV2" alt="" coords="224,5,473,32"/>
+<area shape="rect" id="node3" href="$classQgsGraduatedSymbolRendererV2.html" title="QgsGraduatedSymbolRendererV2" alt="" coords="229,56,468,83"/>
+<area shape="rect" id="node4" href="$classQgsHeatmapRenderer.html" title="A renderer which draws points as a live heatmap. " alt="" coords="266,107,431,133"/>
+<area shape="rect" id="node5" href="$classQgsInvertedPolygonRenderer.html" title="QgsInvertedPolygonRenderer is a polygon&#45;only feature renderer used to display features inverted..." alt="" coords="243,157,454,184"/>
+<area shape="rect" id="node6" href="$classQgsPointDisplacementRenderer.html" title="A renderer that automatically displaces points with the same position. " alt="" coords="235,208,463,235"/>
+<area shape="rect" id="node7" href="$classQgsRedliningRendererV2.html" title="QgsRedliningRendererV2" alt="" coords="257,259,440,285"/>
+<area shape="rect" id="node8" href="$classQgsRuleBasedRendererV2.html" title=" When drawing a vector layer with rule&#45;based renderer, it goes through the rules and draws features w..." alt="" coords="253,309,444,336"/>
+<area shape="rect" id="node9" href="$classQgsSingleSymbolRendererV2.html" title="QgsSingleSymbolRendererV2" alt="" coords="243,360,454,387"/>
+</map>

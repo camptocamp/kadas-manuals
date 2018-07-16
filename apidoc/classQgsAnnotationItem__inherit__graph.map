@@ -1,0 +1,10 @@
+<map id="QgsAnnotationItem" name="QgsAnnotationItem">
+<area shape="rect" id="node5" href="$classQgsFormAnnotationItem.html" title="An annotation item that embedds a designer form showing the feature attribute. " alt="" coords="585,5,766,32"/>
+<area shape="rect" id="node6" href="$classQgsGeoImageAnnotationItem.html" title="QgsGeoImageAnnotationItem" alt="" coords="568,56,783,83"/>
+<area shape="rect" id="node7" href="$classQgsHtmlAnnotationItem.html" title="An annotation item that embedds a designer form showing the feature attribute. " alt="" coords="585,107,765,133"/>
+<area shape="rect" id="node8" href="$classQgsImageAnnotationItem.html" title="QgsImageAnnotationItem" alt="" coords="581,157,770,184"/>
+<area shape="rect" id="node9" href="$classQgsSvgAnnotationItem.html" title="QgsSvgAnnotationItem" alt="" coords="589,208,761,235"/>
+<area shape="rect" id="node11" href="$classQgsTextAnnotationItem.html" title="An annotation item that displays formated text. " alt="" coords="588,259,763,285"/>
+<area shape="rect" id="node3" href="$classQgsMapCanvasItem.html" title="An abstract class for items that can be placed on the map canvas. " alt="" coords="172,157,324,184"/>
+<area shape="rect" id="node10" href="$classQgsPinAnnotationItem.html" title="QgsPinAnnotationItem" alt="" coords="831,208,999,235"/>
+</map>

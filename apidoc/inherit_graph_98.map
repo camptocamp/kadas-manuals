@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$classQgsAttributeTableModel.html" title="A model backed by a QgsVectorLayerCache which is able to provide feature/attribute information to a Q..." alt="" coords="225,5,403,32"/>
+<area shape="rect" id="node3" href="$classQgsComposerAttributeTableColumnModel.html" title="A model for displaying columns shown in a QgsComposerAttributeTable. " alt="" coords="212,57,416,98"/>
+<area shape="rect" id="node4" href="$classQgsComposerAttributeTableColumnModelV2.html" title="A model for displaying columns shown in a QgsComposerAttributeTableV2. " alt="" coords="212,122,416,163"/>
+</map>

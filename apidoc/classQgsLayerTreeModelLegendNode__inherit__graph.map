@@ -1,0 +1,8 @@
+<map id="QgsLayerTreeModelLegendNode" name="QgsLayerTreeModelLegendNode">
+<area shape="rect" id="node3" href="$classQgsImageLegendNode.html" title="Implementation of legend node interface for displaying arbitrary raster image. " alt="" coords="431,5,601,32"/>
+<area shape="rect" id="node4" href="$classQgsRasterSymbolLegendNode.html" title="Implementation of legend node interface for displaying raster legend entries. " alt="" coords="407,56,625,83"/>
+<area shape="rect" id="node5" href="$classQgsSimpleLegendNode.html" title="Implementation of legend node interface for displaying arbitrary label with icon. ..." alt="" coords="429,107,603,133"/>
+<area shape="rect" id="node6" href="$classQgsSymbolV2LegendNode.html" title="Implementation of legend node interface for displaying preview of vector symbols and their labels and..." alt="" coords="419,157,613,184"/>
+<area shape="rect" id="node7" href="$classQgsVectorLabelLegendNode.html" title="QgsVectorLabelLegendNode" alt="" coords="414,208,618,235"/>
+<area shape="rect" id="node8" href="$classQgsWMSLegendNode.html" title="Implementation of legend node interface for displaying WMS legend entries. " alt="" coords="436,259,596,285"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$structQgsMapToolDrawShape_1_1EditContext.html" title="QgsMapToolDrawShape\l::EditContext" alt="" coords="5,104,180,145"/>
+<area shape="rect" id="node2" href="$structQgsMapToolDrawCircle_1_1EditContext.html" title="QgsMapToolDrawCircle\l::EditContext" alt="" coords="242,5,413,47"/>
+<area shape="rect" id="node3" href="$structQgsMapToolDrawPoint_1_1EditContext.html" title="QgsMapToolDrawPoint\l::EditContext" alt="" coords="244,71,411,112"/>
+<area shape="rect" id="node4" href="$structQgsMapToolDrawPolyLine_1_1EditContext.html" title="QgsMapToolDrawPolyLine\l::EditContext" alt="" coords="233,136,422,177"/>
+<area shape="rect" id="node5" href="$structQgsMapToolDrawRectangle_1_1EditContext.html" title="QgsMapToolDrawRectangle\l::EditContext" alt="" coords="228,201,427,243"/>
+</map>

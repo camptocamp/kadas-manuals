@@ -1,0 +1,5 @@
+<map id="QgsMapToolDrawRectangle" name="QgsMapToolDrawRectangle">
+<area shape="rect" id="node4" href="$classQgsMapToolDeleteItems.html" title="QgsMapToolDeleteItems" alt="" coords="15,229,195,256"/>
+<area shape="rect" id="node2" href="$classQgsMapToolDrawShape.html" title="QgsMapToolDrawShape" alt="" coords="17,80,192,107"/>
+<area shape="rect" id="node3" href="$classQgsMapTool.html" title="Abstract base class for all map tools. " alt="" coords="55,5,155,32"/>
+</map>

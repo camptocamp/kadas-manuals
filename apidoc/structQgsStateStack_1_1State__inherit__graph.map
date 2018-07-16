@@ -1,0 +1,8 @@
+<map id="QgsStateStack::State" name="QgsStateStack::State">
+<area shape="rect" id="node2" href="$structQgsMapToolDrawShape_1_1State.html" title="QgsMapToolDrawShape\l::State" alt="" coords="212,136,387,177"/>
+<area shape="rect" id="node3" href="$structQgsMapToolDrawCircle_1_1State.html" title="QgsMapToolDrawCircle\l::State" alt="" coords="462,5,633,47"/>
+<area shape="rect" id="node4" href="$structQgsMapToolDrawCircularSector_1_1State.html" title="QgsMapToolDrawCircularSector\l::State" alt="" coords="435,71,660,112"/>
+<area shape="rect" id="node5" href="$structQgsMapToolDrawPoint_1_1State.html" title="QgsMapToolDrawPoint\l::State" alt="" coords="464,136,631,177"/>
+<area shape="rect" id="node6" href="$structQgsMapToolDrawPolyLine_1_1State.html" title="QgsMapToolDrawPolyLine\l::State" alt="" coords="453,201,642,243"/>
+<area shape="rect" id="node7" href="$structQgsMapToolDrawRectangle_1_1State.html" title="QgsMapToolDrawRectangle\l::State" alt="" coords="448,267,647,308"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="QgsLabelingEngineInterface" name="QgsLabelingEngineInterface">
+<area shape="rect" id="node2" href="$classQgsPalLabeling.html" title="QgsPalLabeling" alt="" coords="102,80,223,107"/>
+<area shape="rect" id="node3" href="$classQgsDxfPalLabeling.html" title="QgsDxfPalLabeling" alt="" coords="5,155,149,181"/>
+<area shape="rect" id="node4" href="$classQgsKMLPalLabeling.html" title="QgsKMLPalLabeling" alt="" coords="174,155,322,181"/>
+</map>

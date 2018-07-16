@@ -1,0 +1,6 @@
+<map id="QgsRasterRendererWidget" name="QgsRasterRendererWidget">
+<area shape="rect" id="node3" href="$classQgsMultiBandColorRendererWidget.html" title="QgsMultiBandColorRenderer\lWidget" alt="" coords="376,5,580,47"/>
+<area shape="rect" id="node4" href="$classQgsPalettedRendererWidget.html" title="QgsPalettedRendererWidget" alt="" coords="376,71,580,98"/>
+<area shape="rect" id="node5" href="$classQgsSingleBandGrayRendererWidget.html" title="QgsSingleBandGrayRenderer\lWidget" alt="" coords="373,123,583,164"/>
+<area shape="rect" id="node6" href="$classQgsSingleBandPseudoColorRendererWidget.html" title="QgsSingleBandPseudoColor\lRendererWidget" alt="" coords="377,188,579,229"/>
+</map>

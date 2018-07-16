@@ -1,0 +1,28 @@
+<map id="/home/sandro/Documents/Devel/QGIS/qgis&#45;enterprise&#45;kadas/src/core/qgscrscache.h" name="/home/sandro/Documents/Devel/QGIS/qgis&#45;enterprise&#45;kadas/src/core/qgscrscache.h">
+<area shape="rect" id="node2" href="$qgsapplication_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgsapplication.cpp" alt="" coords="5,109,252,165"/>
+<area shape="rect" id="node3" href="$qgsarcgisrestutils_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgsarcgisrestutils.cpp" alt="" coords="277,109,543,165"/>
+<area shape="rect" id="node4" href="$qgscoordinateformat_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgscoordinateformat.cpp" alt="" coords="567,109,855,165"/>
+<area shape="rect" id="node5" href="$qgscoordinatereferencesystem_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgscoordinatereferencesystem.cpp" alt="" coords="879,109,1234,165"/>
+<area shape="rect" id="node6" href="$qgscoordinatetransform_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgscoordinatetransform.cpp" alt="" coords="1259,109,1567,165"/>
+<area shape="rect" id="node7" href="$qgscrscache_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgscrscache.cpp" alt="" coords="1591,109,1823,165"/>
+<area shape="rect" id="node8" href="$qgsdatumtransformstore_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgsdatumtransformstore.cpp" alt="" coords="1847,109,2162,165"/>
+<area shape="rect" id="node9" href="$qgsdistancearea_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgsdistancearea.cpp" alt="" coords="2186,109,2445,165"/>
+<area shape="rect" id="node10" href="$qgsguidegridlayer_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgsguidegridlayer.cpp" alt="" coords="2469,109,2737,165"/>
+<area shape="rect" id="node11" href="$qgsmaprenderer_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgsmaprenderer.cpp" alt="" coords="2762,109,3021,165"/>
+<area shape="rect" id="node12" href="$qgsmaprendererjob_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgsmaprendererjob.cpp" alt="" coords="3045,109,3324,165"/>
+<area shape="rect" id="node13" href="$qgsmapsettings_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgsmapsettings.cpp" alt="" coords="3349,109,3605,165"/>
+<area shape="rect" id="node14" href="$qgsredlininglayer_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgsredlininglayer.cpp" alt="" coords="3629,109,3893,165"/>
+<area shape="rect" id="node15" href="$qgsvectorlayer_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/qgsvectorlayer.cpp" alt="" coords="3917,109,4165,165"/>
+<area shape="rect" id="node16" href="$qgsrasterprojector_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/core/raster/qgsrasterprojector.cpp" alt="" coords="4189,109,4501,165"/>
+<area shape="rect" id="node17" href="$qgsannotationitem_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/gui/qgsannotationitem.cpp" alt="" coords="4525,109,4791,165"/>
+<area shape="rect" id="node18" href="$qgsannotationlayer_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/gui/qgsannotationlayer.cpp" alt="" coords="4815,109,5085,165"/>
+<area shape="rect" id="node19" href="$qgsgeoimageannotationitem_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/gui/qgsgeoimageannotationitem.cpp" alt="" coords="5109,109,5441,165"/>
+<area shape="rect" id="node20" href="$qgskmlexport_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/gui/qgskmlexport.cpp" alt="" coords="5466,109,5701,165"/>
+<area shape="rect" id="node21" href="$qgskmlimport_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/gui/qgskmlimport.cpp" alt="" coords="5725,109,5959,165"/>
+<area shape="rect" id="node22" href="$qgsmapcanvas_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/gui/qgsmapcanvas.cpp" alt="" coords="5983,109,6226,165"/>
+<area shape="rect" id="node23" href="$qgsmapidentifydialog_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/gui/qgsmapidentifydialog.cpp" alt="" coords="6251,109,6537,165"/>
+<area shape="rect" id="node24" href="$qgsmaptoolannotation_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/gui/qgsmaptoolannotation.cpp" alt="" coords="6562,109,6853,165"/>
+<area shape="rect" id="node25" href="$qgsmaptooldeleteitems_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/gui/qgsmaptooldeleteitems.cpp" alt="" coords="6877,109,7175,165"/>
+<area shape="rect" id="node26" href="$qgsmaptooldrawshape_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/gui/qgsmaptooldrawshape.cpp" alt="" coords="7200,109,7492,165"/>
+<area shape="rect" id="node27" href="$qgspinannotationitem_8cpp.html" title="/home/sandro/Documents\l/Devel/QGIS/qgis&#45;enterprise\l&#45;kadas/src/gui/qgspinannotationitem.cpp" alt="" coords="7516,109,7803,165"/>
+</map>
