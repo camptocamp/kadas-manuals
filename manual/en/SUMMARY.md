@@ -55,6 +55,8 @@
   - [Measurement decimal places](settings.md#sec3)
   - [Snap to vertices when drawing](settings.md#sec4)
   - [Help / About](settings.md#sec5)
+* Plugins
+  - [Routing Plugin](routing_plugin.md)
 * Reference for advanced functionalities
   - [Working with Projections](working_with_projections/working_with_projections.md)
   - [Print Composer](print_composer/print_composer.md)
