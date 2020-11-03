@@ -40,6 +40,8 @@ After the plugin has been activated, there will be some additional tool in the K
 
 ## Routing
 
+### User Interface
+
 Routing functionality can be accessed from Navigation menu.
 
 <img src="../images/routing_plugin/navigation_tab_routing.png" />
@@ -79,6 +81,8 @@ Here is the result of the routing calculation above. Now, the navigation button 
 ## Navigation
 
 ## Reachability
+
+### User Interface
 
 The reachability fuctionality can be accessed from the *Anaylisis* menu.
 
