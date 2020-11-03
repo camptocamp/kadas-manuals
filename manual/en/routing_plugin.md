@@ -80,6 +80,37 @@ Here is the result of the routing calculation above. Now, the navigation button 
 
 ## Reachability
 
+The reachability fuctionality can be accessed from the *Anaylisis* menu.
+
+<img src="../images/routing_plugin/analysis_tab_reachability.png" />
+
+Clicking the Routing button will show a blue cross in the center of the map and the Reachability window as the following:
+
+<img src="../images/routing_plugin/reachability_window.png" />
+
+There are some number indicated in the image above, below are the explanation for each number:
+
+1. **Center Cross** is used to show where is the origin point of the isochrone/isodistance. This center cross can be changed by:
+
+   1. pan the map
+   2. using the location tool on no 2 (search by location, GPS, and click on the map).
+
+   This center center cross will always showing the center of the map.
+
+2. **Origin Point Selector** is used to choose the origin point of the isochrone/isodistance. User can use several methods:
+   1. Search the location by typing its name
+   2. Get the location from the GPS by clicking the GPS button
+   3. Using map tool (arrow button) and click on the map.
+
+   Whenever the location is changed, the map also will be recentered and put the blue cross in the center of the map.
+3. **Mode Selector** is used to choose between Isochrone or Isodistance.
+4. **Transport Method Selector** is used to select the transportation method used for the reachability analysis.
+5. **Basename Field** is used to set the basename (prefix) for the result layer.
+6. **Interval Fields** is used to specify the interval for the reachability analysis. For isochrone the unit is minutes and for isodistance the unit is km. The interval is separated by a semicolon.
+7. **Remove Previous Isoline** check box is used to remove the previous result from the reachability analysis.
+8. **Calculate Button** is used to run the reachability analysis
+9. **Close Button** is used to close the reachability analysis dialog. It will also hide the *Center Cross*.
+
 ## Data Catalogue
 
 ## Day / Night
