@@ -115,6 +115,33 @@ There are some number indicated in the image above, below are the explanation fo
 8. **Calculate Button** is used to run the reachability analysis
 9. **Close Button** is used to close the reachability analysis dialog. It will also hide the *Center Cross*.
 
+### Reachability workflow
+
+Here are the steps to calculate a reachability from a point:
+
+1. Choose a location as the origin for the reachability calculation. It can be done by searching the place name, getting the location from a GPS, clicking on the map by using the map tool, or pan the map and use the center of the map.
+2. Choose the reachability calculation method, isochrone or isodistance.
+3. Choose the mean of transport. See the [Vehicles](#Vehicles) for more information about the available options.
+4. Set the basename for the result layer.
+5. Set the intervals for the reachability calculation. Isochrone uses minutes as the interval unit while isodistance use kilometers (km) as the interval unit. It accept integer number for isochrone and float/decimal number for isodistance. Use semicolon to separate each interval.
+6. Check the remove previous isoline checkbox if you want to remove.
+7. Click calculate button to start the reachability calculation
+
+### Reachability Result
+
+An example of reachabiity result is shown in the following image
+
+<img src="../images/routing_plugin/reachability_result.png" />
+
+The Routing Plugin will creates several polygon layers based on the number of intervals set in the reachability calculation. The layer naming format is [interval][unit] - [basename], in the example above is *10 min - isochrones*, *20 min - isochones*, and *30 min isochrones*. Each layer indicates the area that can be reached based on the interval, e.g. 10 minutes from the center.
+
 ## Data Catalogue
 
 ## Day / Night
+
+## Vehicles
+
+Below is the list of supported mean of transport:
+
+1. Walk
+2. Car
