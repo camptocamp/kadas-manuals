@@ -69,13 +69,31 @@ There are some number indicated in the image above, below are the explanation fo
 
 ### Route calculation workflow
 
+Here is the steps of common route calculation workflow:
+
+1. Choose a layer from the *layer selector* combo box. It will overwrite an existing routing layer with the same name. It is also possible to use different layer by clicking the plus button and set a new layer name.
+2. Choose the origin or starting location by using the *origin point selector*. It can be done by searching the place name, getting the location from a GPS, or clicking on the map by using the map tool (arrow button).
+3. Choose the destination location by using the *destination point selector*. It can be done by searching the place name, getting the location from a GPS, or clicking on the map by using the map tool (arrow button).
+4. Choose a way point candidate by using the *way point selector*. A way point must be added to the selected way point list by using the *way point add button*. The selected way points are listed on the *selected way points* field. Only the way point listed here are considered on the routing calculation.
+5. If a user want to clear up all the selected origin, destination, and way point; he/she can use the *clear button*.
+6. If a user want to reverse the order of origin point and destination location, he/she can use the *reverse button*.
+7. Choose the mean of transport. See the [Vehicles](#Vehicles) for more information about the available options.
+8. Choose the routing calculation method, fastest or shortest.
+9. Select the area to be avoided. It can be done by drawing a polygon (custom polygon option) or using an existing layer (polygon layer option).
+10. Click calculate button to start the calculation.
+
 Here is an example for a route calculation from *Bern* to *Zurich* through *Luzern*. *Oftringen* is not yet added to selected way point.
 
 <img src="../images/routing_plugin/routing_selection.png" />
 
-Here is the result of the routing calculation above. Now, the navigation button is enabled. The result is shown as a blue line.
+
+### Route calculation result
+
+Here is an example for a route calculation from *Bern* to *Zurich* through *Luzern* by using car and fastest route calculation.
 
 <img src="../images/routing_plugin/routing_result.png" />
+
+The route calculation will create one layer with the name as selected (e.g. route). This a line layer that contains a routing and step by step navigation information. User can also hover on the result layer to see the length and the elapsed time to go through the route.
 
 
 ## Navigation
