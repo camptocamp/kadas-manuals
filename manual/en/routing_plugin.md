@@ -36,8 +36,8 @@ After the plugin has been activated, there will be some additional tool in the K
 1. [Routing](#Routing)
 2. [Navigation](#Navigation)
 3. [Reachability](#Reachability)
-4. [Data Catalogue](#DataCatalogue)
-5. [Day / Night](#Day/Night)
+4. [Data Catalogue](#Data-Catalogue)
+5. [Day / Night](#Day--Night)
 
 
 ## Routing
