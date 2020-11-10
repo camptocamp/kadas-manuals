@@ -155,6 +155,29 @@ The Routing Plugin will creates several polygon layers based on the number of in
 
 ## Data Catalogue
 
+### User Interface
+
+The data catalouge fuctionality can be accessed from the *Navigation* menu.
+
+<img src="../images/routing_plugin/navigation_tab_data_catalogue.png" />
+
+Clicking on the data catalogue menu will open the following data catalogue dialog.
+
+<img src="../images/routing_plugin/data_catalogue_window.png" />
+
+There are some number indicated in the image above, below are the explanation for each number:
+
+1. **List of available tiles data**. User can choose by clicking one of them. It will be used in the calculation by the plugin
+2. **Remove/Install/Update button** is used to remove, install, or update the coresponding tiles data. There are 3 possibilities for this button:
+    1. *Install* is shown when there is a tile data that is available in the server but not yet available locally. User can install/download the tile data by using this *install* button.
+    2. *Remove* is shown when the tile data is already available locally. User can remove the tile data from the file system by using this *remove* button.
+    3. *Update* is shown when the tile data on the server is newer than the tile data in the local file system. User can update the tile data by using this *update* button
+3. *Close button* is used to close the dialog. The last selected tile data will be used by the plugin
+
+### Data Catalogue Workflow
+
+By default, the plugin will use the tile data provided by the Valhalla installation. User can change the active tile data by using this feature. When the user open the data catalogue menu, it will retrieve the list of tile data on the server. From this list, user can download the tile data and use it for their calculation.
+
 ## Day / Night
 
 ## Vehicles
