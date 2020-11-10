@@ -57,6 +57,12 @@
   - [Help / About](settings.md#sec5)
 * Plugins
   - [Routing Plugin](routing_plugin.md)
+    - [Installation](routing_plugin.md#Installation)
+    - [Routing](routing_plugin.md#Routing)
+    - [Navigation](routing_plugin.md#Navigation)
+    - [Reachability](routing_plugin.md#Reachability)
+    - [Data Catalogue](routing_plugin.md#Data-Catalogue)
+    - [Day / Night](routing_plugin.md#Day--Night)
 * Reference for advanced functionalities
   - [Working with Projections](working_with_projections/working_with_projections.md)
   - [Print Composer](print_composer/print_composer.md)
