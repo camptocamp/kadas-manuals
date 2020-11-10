@@ -29,13 +29,15 @@ Currently, the installation is only available from this repository.
 
    To enable this plugin, open [Plugin Manager](settings.md#sec5) menu from the Settings menu, and tick the checkbox on the Kadas Routing Plugin.
 
+   <img src="../images/routing_plugin/plugin_manager.png" />
+
 After the plugin has been activated, there will be some additional tool in the Kadas Albiero menu:
 
-1. Routing
-2. Navigation
-3. Reachability
-4. Data Catalogue
-5. Day / Night
+1. [Routing](#Routing)
+2. [Navigation](#Navigation)
+3. [Reachability](#Reachability)
+4. [Data Catalogue](#DataCatalogue)
+5. [Day / Night](#Day/Night)
 
 
 ## Routing
