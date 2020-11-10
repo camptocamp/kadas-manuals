@@ -98,6 +98,40 @@ The route calculation will create one layer with the name as selected (e.g. rout
 
 ## Navigation
 
+### User Interface
+
+Navigation functionality can be accessed from Navigation menu or from the routing dialog (see [Routing](#Routing)).
+
+<img src="../images/routing_plugin/navigation_tab_navigate.png" />
+
+Depending on the condition of routing layer and the current location, the navigation UI can be divided into three state:
+
+1. No route layer selected. It will show a text to select a route or waypoint layer
+   <img src="../images/routing_plugin/navigation_panel_no_route.png" />
+2. Route layer is selected but the current location is far from the routing layer. It will show a message that you are not on the route.
+   <img src="../images/routing_plugin/navigation_panel_far.png" />
+3. The current location is located near the routing layer.
+   <img src="../images/routing_plugin/navigation_panel_near.png" />
+
+The map will also be rotate according to the current position. When the current location is close to the route layer, there will be an information shown in the navigation panel as the following.
+
+<img src="../images/routing_plugin/navigation_panel.png" />
+
+There are some number indicated in the image above, below are the explanation for each number:
+
+1. **Show warning check box** is used to disable or enable the warning when the final destination is under specific distance. Below is the example of the warning:
+
+   <img src="../images/routing_plugin/distance_warning.png" />
+
+2. **Warning distance configuration** is used to configure the threshold distance for the warning shown. Clicking this will show a dialog to set the threshold distance as below:
+
+   <img src="../images/routing_plugin/distance_configuration.png" />
+3. **Next maneuver icon** to indicate the next maneuver from current location.
+4. **Next distance and maneuver** to indicate how far is the next maneuever from the current location and what is the maneuver.
+5. **Incoming maneuver** to indicate what maneuver after the next maneuver. It show the icon, distance, and the maneuver.
+6. **Current status** to indicate the current speed, the time and distance left until the final destination, and the *Estimated Time Arrival* for the journey.
+7. **Current location** is showing the coordinate of the current location. The format follows the Kadas formating.
+
 ## Reachability
 
 ### User Interface
