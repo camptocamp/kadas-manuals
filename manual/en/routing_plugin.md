@@ -180,9 +180,39 @@ By default, the plugin will use the tile data provided by the Valhalla installat
 
 ## Day / Night
 
+To be added.
+
 ## Vehicles
 
 Below is the list of supported mean of transport:
 
-1. Walk
-2. Car
+1. WALK
+2. BICYCLE
+3. CAR
+4. Motorcycle BMW F 700 GS
+5. Deliv van KA 0,75T/4PL 4X4 GL MB G 300
+6. Minibus 10s 4x4 Sprinter 316
+7. Amb L Mercedes Sprinter 516
+8. Truck L 2t gl 4x4 Duro WE
+9. Truck L 2.2t gl 4x4 DURO
+10. Truck WA 4x4 Iveco
+11. Truck WABRA/HA 6x6 Iveco
+12. Truck 14t gl 8x8 WABRA/HA
+13. Truck 5.6t gl 4x4 Steyr
+14. Truck 9.6t gl 6x6 Steyr
+15. Truck Verd F Seilw 5.5T 4X4 GL Iveco
+16. Truck Verd 9T 6X6 GL Iveco
+17. Truck Verd 7T 4X4 Iveco
+18. Truck Verd Hebu 12T 6X6 Iveco
+19. Truck WABRA Con 9.8T 6X6 Iveco
+20. Truck WABRA Con 14T 8X8 Iveco
+21. Truck Mu Ki 10T 6X6 Iveco
+22. Truck Ki 11T 6X6 Iveco
+23. WArm 93 8x8 PIRANHA
+24. Cdo 6x6 PIRANHA
+25. RecceV 93/97
+26. GMTF
+27. Tank how M 109
+28. Tank 87 Leopard
+29. Cat TranspV M548
+30. IFV 2000
