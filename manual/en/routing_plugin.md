@@ -204,16 +204,16 @@ Clicking on the data catalog menu will open the following data catalogue dialog.
 
 There are some numbers indicated in the image above, below are the explanation for each number:
 
-1. **List of available tiles data**. Users can choose by clicking one of them. It will be used in the calculation by the plugin
-2. **Remove/Install/Update button** is used to remove, install, or update the corresponding tiles data. There are 3 possibilities for this button:
-    1. *Install* is shown when there is tile data that is available in the server but not yet available locally. Users can install/download the tile data by using this *install* button.
-    2. *Remove* is shown when the tile data is already available locally. Users can remove the tile data from the file system by using this *remove* button.
-    3. *Update* is shown when the tile data on the server is newer than the tile data in the local file system. User can update the tile data by using this *update* button
-3. *Close button* is used to close the dialog. The last selected tile data will be used by the plugin
+1. **List of available map package**. Users can choose by clicking one of them. It will be used in the calculation by the plugin
+2. **Remove/Install/Update button** is used to remove, install, or update the corresponding map package. There are 3 possibilities for this button:
+    1. *Install* is shown when there is map package that is available in the server but not yet available locally. Users can install/download the map package by using this *install* button.
+    2. *Remove* is shown when the map package is already available locally. Users can remove the map package from the file system by using this *remove* button.
+    3. *Update* is shown when the map package on the server is newer than the map package in the local file system. User can update the map package by using this *update* button
+3. **Close button** is used to close the dialog. The last selected map package will be used by the plugin
 
 ### Data Catalogue Workflow
 
-By default, the plugin will use the tile data provided by the Valhalla installation. Users can change the active tile data by using this feature. When the user opens the data catalogue menu, it will retrieve the list of tile data on the server. From this list, users can download the tile data and use it for their calculation.
+By default, the plugin will use the map package provided by the Valhalla installation. Users can change the active map package by using this feature. When the user opens the data catalogue menu, it will retrieve the list of map package on the server. From this list, users can download the map package and use it for their calculation.
 
 
 ## Day / Night
