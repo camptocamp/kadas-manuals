@@ -188,7 +188,9 @@ An example of a reachability result is shown in the following image
 
 <img src="../images/routing_plugin/reachability_result.png" />
 
-The Routing Plugin will create several polygon layers based on the number of intervals set in the reachability calculation. The layer naming format is [interval][unit] - [basename], in the example above is *10 min - isochrones*, *20 min - isochrones*, and *30 min isochrones*. Each layer indicates the area that can be reached based on the interval, e.g. 10 minutes from the center.
+The Routing Plugin will create two kinds of layers as the output. The first one is a point layer to indicate the center of the reachability. It will be shown as a red pin. It will be named with this naming format "Center of [basename]".
+
+The other output is several polygon layers. The number of layers corresponds with the number of intervals. The polygon layer naming format is [interval][unit] - [basename], in the example above is *10 min - isochrones*, *20 min - isochrones*, and *30 min isochrones*. Each polygon layer indicates the area that can be reached based on the interval, e.g. 10 minutes from the center and a specific color from greenish to reddish.
 
 ## Data Catalogue
 
