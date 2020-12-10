@@ -217,6 +217,22 @@ There are some numbers indicated in the image above, below are the explanation f
 
 By default, the plugin will use the map package provided by the Valhalla installation. Users can change the active map package by using this feature. When the user opens the data catalogue menu, it will retrieve the list of map package on the server. From this list, users can download the map package and use it for their calculation.
 
+#### Providing routing data for offline devices
+
+There might be times where a device that has no access to the internal FUB network need a data update. It is possible to update the data for kadas-routing-plugin manually.
+
+The steps are:
+
+- on a computer that has access to the repository download the necessary data using the data catologue of the plugin as described above (1).
+- in the file explorer go to `%appdata%\Kadas\routing\tiles` (2) and copy the necessary data packages (the data packages are saved in folder with names like `b828730999e04fdf8f19bda9a78ab8f4`) on an external storage drive (like a USB stick)
+- on the other PC, copy again the data package in `%appdata%\Kadas\routing\tiles` folder.
+- close and open the data catalogue again. The new data should be recognized as installed, just click on the radio button to activate it
+
+NB: if you are not sure about which data package you must download, check the `metadata.json` file in the data packages (3) with a text editor.
+
+<img src="../images/routing_plugin/manual_data_install_1.png" />
+
+
 
 ## Day / Night
 
