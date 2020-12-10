@@ -223,7 +223,7 @@ There might be times where a device that has no access to the internal FUB netwo
 
 The steps are:
 
-- on a computer that has access to the repository download the necessary data using the data catologue of the plugin as described above (1).
+- on a computer that has access to the repository download the necessary data using the data catalogue of the plugin as described above (1).
 - in the file explorer go to `%appdata%\Kadas\routing\tiles` (2) and copy the necessary data packages (the data packages are saved in folder with names like `b828730999e04fdf8f19bda9a78ab8f4`) on an external storage drive (like a USB stick)
 - on the other PC, copy again the data package in `%appdata%\Kadas\routing\tiles` folder.
 - close and open the data catalogue again. The new data should be recognized as installed, just click on the radio button to activate it
